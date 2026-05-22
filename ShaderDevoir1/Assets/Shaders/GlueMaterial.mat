@@ -46,7 +46,7 @@ Material:
     - _QueueOffset: 0
     - _RunPower: 2
     - _WobbleIntensity: 0
-    - _WobbleSpeed: 2
+    - _WobbleSpeed: 1
     m_Colors:
     - _CentralColor: {r: 0.22915941, g: 0.4056603, b: 0.2200515, a: 1}
     - _ExternColor: {r: 0.43435532, g: 0.7830188, b: 0.2326895, a: 1}
