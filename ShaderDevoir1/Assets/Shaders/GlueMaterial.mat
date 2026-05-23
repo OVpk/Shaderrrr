@@ -42,6 +42,7 @@ Material:
     - _HeightMin: 0
     - _Melting: 0
     - _Melting_in: 100
+    - _PuddleSpread: 1.5
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RunPower: 2
